@@ -4,7 +4,7 @@
 
 ### About Me 👩🏻‍💻 
 ✿ Currently pursuing a degree in Computer Science <br>
-✿ Interested in Software Development, Web Development, and Cybersecurity <br>
+✿ Interested in Software Development, Web Development, and ML <br>
 ✿ Learning JS, HTML, CSS, and Python <br>
 
 --- 
